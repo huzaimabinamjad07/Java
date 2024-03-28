@@ -1,4 +1,4 @@
-public class Task4 {
+public class Task1904 {
     public static int pairFriends(int n) {
         if (n <= 1) {
             return 1;

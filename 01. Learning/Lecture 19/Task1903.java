@@ -1,4 +1,4 @@
-public class Task3 {
+public class Task1903 {
     public static int placeTiles(int n, int m) {
         if (n < m) {
             return 1;
@@ -11,7 +11,7 @@ public class Task3 {
 
     public static void main(String args[]) {
         int n = 4, m = 4;
-        
+
         System.out.println(placeTiles(n, m));
     }
 }

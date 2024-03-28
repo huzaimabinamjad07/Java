@@ -1,4 +1,4 @@
-public class Task1 {
+public class Task1901 {
     public static void printPermutation(String str, int idx, String perm) {
         if (str.length() == 0) {
             System.out.println(perm);

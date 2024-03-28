@@ -1,6 +1,6 @@
 import java.util.ArrayList;
 
-public class Task5 {
+public class Task1905 {
     public static void printSubsets(ArrayList<Integer> subset) {
         for (int i = 0; i < subset.size(); i++) {
             System.out.print(subset.get(i) + " ");
